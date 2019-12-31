@@ -1,0 +1,14 @@
+{
+  "name": "tickets",
+  "version": "1.0.0",
+  "description": "Ticketing macro for Ticketlink",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "puppeteer": "^1.12.1"
+  }
+}
